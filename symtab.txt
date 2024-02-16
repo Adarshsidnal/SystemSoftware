@@ -1,0 +1,13 @@
+FIRST      1000      
+SECOND     1003      
+RETADR     1006      
+CLOOP      1009      
+ENDFIL     1015      
+WRREC      1018      
+EOF        102a      
+THREE      102d      
+ZERO       1030      
+STR        1033      
+LENGTH     1038      
+BUFFER     103b      
+RDREC      1036
